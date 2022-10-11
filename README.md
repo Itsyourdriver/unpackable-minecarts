@@ -17,4 +17,4 @@ Allow all boats with chest to be unpacked even though it's not necessary, it wou
 
 
 # Installation
-Head to the wiki to learn how to install the pack.
+https://github.com/Itsyourdriver/unpackable-minecarts/wiki/Installation#installation
