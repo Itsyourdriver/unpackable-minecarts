@@ -1,5 +1,5 @@
 # Unpackable-Minecarts
-This pack "returns" the original feature for _____ minecarts to drop the block and the minecart. To do this, this pack uses crafting to "return" this feature.
+This pack "returns" the original feature for chest/tnt/hopper/furnace/command block minecarts to drop the block and the minecart. To do this, this pack uses crafting to "return" this feature.
 
 ## Demonstration:
 https://youtu.be/8LZaT5Q9Ft0
