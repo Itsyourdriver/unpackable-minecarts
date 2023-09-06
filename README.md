@@ -6,6 +6,7 @@ This pack "returns" the original feature for chest/tnt/hopper/furnace/command bl
 ## Demonstration:
 https://youtu.be/8LZaT5Q9Ft0
 
+![Basic GIF Demonstration](https://cdn.driver.fyi/r/unpackable_demonstrations.gif)
 
 
 # Contributing
