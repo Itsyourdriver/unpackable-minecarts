@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecartcrafting:minecraft_chest"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecartcrafting:crafted_minecraft_chest"
+    }
+}

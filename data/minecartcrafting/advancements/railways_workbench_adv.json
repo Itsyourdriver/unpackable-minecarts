@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecartcrafting:railways_workbench"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecartcrafting:crafted_railways_workbench"
+    }
+}
