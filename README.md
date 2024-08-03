@@ -10,6 +10,13 @@ https://youtu.be/8LZaT5Q9Ft0
 # Contributing
 You can contribute by creating pull requests for updates/compat, and reporting issues.
 
+# Compatibility
+Unpackable Minecarts has compatibility with the following mods:
+- Create: Steam & Rails
+- Supplementaries 
+
+# Support
+For support/suggestions, join my discord: [https://discord.gg/zKZsaXrmpV](https://discord.gg/zKZsaXrmpV)
 
 # Future Plans
 Finish compat for more mods.
