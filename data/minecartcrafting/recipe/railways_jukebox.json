@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:chest_minecart"
+            "item": "railways:jukeboxcart"
         }
     ],
     "result": {
-        "item": "minecraft:knowledge_book",
+        "id": "minecraft:knowledge_book",
         "count": 1
     }
 }

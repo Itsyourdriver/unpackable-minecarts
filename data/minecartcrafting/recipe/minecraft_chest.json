@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:hopper_minecart"
+            "item": "minecraft:chest_minecart"
         }
     ],
     "result": {
-        "item": "minecraft:knowledge_book",
+        "id": "minecraft:knowledge_book",
         "count": 1
     }
 }
