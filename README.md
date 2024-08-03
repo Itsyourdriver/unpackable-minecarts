@@ -1,7 +1,5 @@
-![banner (2)](https://user-images.githubusercontent.com/73563507/194992684-61a1f05d-e687-46b5-8bc1-41fa044d91ae.png)
-
 # Unpackable-Minecarts
-This pack "returns" the original feature for chest/tnt/hopper/furnace/command block minecarts to drop the block and the minecart. To do this, this pack uses crafting to "return" this feature.
+Adds recipes to allow the uncrafting of all minecart types (excl. command block minecart).
 
 ## Demonstration:
 https://youtu.be/8LZaT5Q9Ft0
@@ -10,12 +8,18 @@ https://youtu.be/8LZaT5Q9Ft0
 
 
 # Contributing
-You can contribute by forking the project and creating a PR or even by sending in issues!
+You can contribute by creating pull requests for updates/compat, and reporting issues.
 
 
 # Future Plans
-Allow all boats with chest to be unpacked even though it's not necessary, it would be nice to have.
+Finish compat for more mods.
 
+# Branches
+`main` - 1.20.1 Primary Branch, most compatibility will be pushed here as most mods aren't updated.
+`1.21` - 1.21, I plan on renaming it to latest as this branch will just be where I push updates for the latest version of minecraft.
 
 # Installation
 https://github.com/Itsyourdriver/unpackable-minecarts/wiki/Installation#installation
+
+
+Enjoy! ❤️
